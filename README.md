@@ -1,5 +1,5 @@
 # Dell Latitude 7490 Hackintosh EFI
-# macOS 11.x BigSur with Intel Wireless via AirportItlwm
+# macOS 13.x Ventura with Intel Wireless via AirportItlwm
 
 Note: My laptop was sold in April 2024 and no more updates will be available.
 

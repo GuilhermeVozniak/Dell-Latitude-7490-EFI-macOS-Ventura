@@ -1,0 +1,1 @@
+# Dell-Latitude-7490-EFI-macOS-Ventura
